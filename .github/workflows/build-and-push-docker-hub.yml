@@ -29,7 +29,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: hainamnguyen10/cicd2024:staging
+          tags: hainamnguyen10/cicd20232:staging
 
 
   pull-and-up:
